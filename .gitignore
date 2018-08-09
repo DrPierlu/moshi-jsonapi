@@ -5,3 +5,4 @@ build/
 gradle.properties
 build.properties
 local.properties
+/target/
